@@ -37,6 +37,6 @@ const aashman = {
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-[![Book a Meeting](https://img.shields.io/badge/Book_a_Meeting-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://aashman.vercel.app/)
+[![Book a Meeting](https://img.shields.io/badge/Book_a_Meeting-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/aashman-verma)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@aashmanverma)
 </div>
