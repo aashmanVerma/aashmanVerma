@@ -2,7 +2,7 @@
   
 # Hey there! I'm Aashman 👋
 
-### Software Developer | Backend Enthusiast | System Architecture Nerd
+### Software Developer | Backend Enthusiast | System Architecture
 
 You'll probably find me with my headphones on, diving into 🎧 music — it keeps me focused, inspired, and in flow.
 
@@ -16,8 +16,7 @@ You'll probably find me with my headphones on, diving into 🎧 music — it kee
 
 ## 🧑‍💻 About Me
 
-I'm a software developer with a strong focus on building **reliable, scalable, and high-quality applications**. I specialise in end-to-end development — from designing system architecture to delivering clean, user-focused interfaces.
-
+I'm a software developer with a strong focus on building **reliable, scalable, and high-quality applications**.
 My experience spans **full-stack development**, **distributed systems**, **microservices**, **real-time data pipelines**, and **performance-oriented backend engineering**.
 
 I enjoy breaking down complex challenges, designing systems that scale, and bringing structure and clarity to fast-moving environments.
