@@ -2,7 +2,7 @@
   
 # Hey there! I'm Aashman 👋
 
-### Software Developer | Backend Enthusiast | System Architecture
+### Software Developer | Backend Enthusiast
 
 You'll probably find me with my headphones on, diving into 🎧 music - it keeps me focused, inspired, and in flow.
 
