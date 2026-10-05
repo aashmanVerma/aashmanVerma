@@ -4,7 +4,7 @@
 
 ### Software Developer | Backend Enthusiast | System Architecture
 
-You'll probably find me with my headphones on, diving into 🎧 music — it keeps me focused, inspired, and in flow.
+You'll probably find me with my headphones on, diving into 🎧 music - it keeps me focused, inspired, and in flow.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aashman.vercel.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/verma_aashman)
@@ -37,5 +37,4 @@ const aashman = {
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 [![Book a Meeting](https://img.shields.io/badge/Book_a_Meeting-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/aashman-verma)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@aashmanverma)
 </div>
